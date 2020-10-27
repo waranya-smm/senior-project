@@ -1,0 +1,7 @@
+export const FIREBASE_API_KEY = "AIzaSyAWMjgJeYKk00qYvb9LykEr7TBYjq1cuqw"
+export const FIREBASE_DATABASE_URL = "https://img-recognition-66e66.firebaseio.com"
+export const FIREBASE_PROJECT_ID = "img-recognition-66e66"
+export const FIREBASE_MESSAGING_SENDER_ID = "779483870794"
+export const FIREBASE_AUTH_DOMAIN = "img-recognition-66e66.firebaseapp.com"
+export const FIREBASE_STORAGE_BUCKET = "img-recognition-66e66.appspot.com"
+export const GOOGLE_CLOUD_VISION_API_KEY = "AIzaSyBNvo9E3K5qGp4GsJDwYrc-BJGGvydNag4"
