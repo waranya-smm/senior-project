@@ -3,7 +3,7 @@
     "name": "google-vision-rn-demo",
     "slug": "google-vision-rn-demo",
     "privacy": "public",
-    "sdkVersion": "38.0.0",
+    "sdkVersion": "39.0.0",
     "platforms": [
       "ios",
       "android"
